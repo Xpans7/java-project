@@ -1,8 +1,5 @@
-//montong di recode anjim:(
 //created by panorama
 //tugas ngajieun program java
-//ngan jalmi kelompok 6 nu bisa ngagunakeun program ieu:v
-//username/name : panorama, bowo, dila, nina, robi
 //password : 12345
 import java.util.Scanner;
 import java.util.*;
